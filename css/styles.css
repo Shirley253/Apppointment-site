@@ -1,0 +1,15 @@
+body{
+  background-color: #F3E9E1;
+}
+
+h1{
+  text-align: center;
+}
+
+.container{
+  font-family: helvetica;
+  font-size: 13pt;
+}
+#booking{
+  display: none;
+}
